@@ -1,0 +1,7 @@
+.DS_Store
+
+# backend
+backend/py_client
+backend/venv
+backend/server/db.sqlite3
+backend/server/.env
