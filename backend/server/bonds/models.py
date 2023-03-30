@@ -37,3 +37,31 @@ class Bond(models.Model):
 
     def __str__(self):
         return self.title
+
+
+ # "title": "1011778 B C UNLIMITED LIABILITY CO / NEW", 
+# "coupon_rate": "4.250", 
+# "maturity": "05/15/2024", 
+# "symbol": "BCUL4492362", 
+# "cusip": "68245XAC3", 
+# "next_call_date": "\u2014", 
+# "callable": "Yes", 
+# "last_price": "$101.07", 
+# "last_yield": "2.731%", 
+# "last_trade_date": "07/12/2021", 
+# "us_treasury_yield": "\u2014", 
+# "bond_type": "US Corporate Debentures", 
+# "debt_type": "Note", 
+# "offering_date": "05/03/2017", 
+# "first_coupon_date": "07/15/2017", 
+# "payment_frequence": "Semi-Annual", 
+# "security_level": "$100.00", 
+# "price_at_offering": "$100.00", 
+# "moody_rating": "WR (07/22/2021)", 
+# "sp_rating": "", 
+# "default": "\u2014", 
+# "bankruptcy": "N", 
+# "call_date": "\u2014", 
+# "call_price": "\u2014", 
+# "call_frequency": "Continuously"
+

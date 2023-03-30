@@ -1,7 +1,13 @@
 .DS_Store
 
 # backend
-backend/py_client
+backend/bondscanner/data
+backend/py_client/basic.py
 backend/venv
 backend/server/db.sqlite3
 backend/server/.env
+
+
+# frontend
+frontend
+
